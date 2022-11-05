@@ -1,0 +1,294 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <title>Báo giá sản phẩm kccshop</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+        .list_table {
+            border-collapse: collapse;
+        }
+
+        .list_table td {
+            border: solid 1px #aaa;
+            padding: 5px;
+            text-algin: center;
+            vertical-align: middle;
+        }
+
+        .cart_first_tr {
+            background-color: #cccccc;
+        }
+
+        BODY,
+        FORM,
+        TABLE,
+        TD,
+        SPAN,
+        DIV {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+        }
+
+        .title a {
+            color: #0000FF;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            text-decoration: none;
+        }
+
+        .title a:hover {
+            color: #0000FF;
+            text-decoration: underline;
+        }
+    </style>
+    <style>
+        body {
+            padding: 20px;
+            background: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content-print-all" style="width: 100%;background: url(https://kccshop.vn/media/lib/24-07-2021/bg_kccshop_buildpc.png) center center no-repeat fixed;float: left;">
+        <div style="width:100%;margin: 0 auto;">
+            <table width="100%">
+                <tr>
+                    <td colspan="3" valign="top">
+                        <img src="https://kccshop.vn/media/lib/24-07-2021/logo_kccshop_buildpc.png" alt="" width:150px; />
+                    </td>
+                    <td colspan="5" align="right" style="line-height: 19px;">
+                        <b style="color: #e51f28;font-size: 20px;">KCCSHOP</b><br />
+                        9 Ngõ 3 Cù Chính Lan, Khương Mai, Thanh Xuân, Hà Nội<br>
+                        8B Lý Thường Kiệt, Phường 12, Quận 5, TP.HCM<br />
+                        Hotline: 0912074444 - 0888129444
+
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="8"></td>
+                </tr>
+                <tr>
+                    <td colspan="8"
+                        style="border-top: 4px double #ccc;;font-size:21px; font-weight:bold; text-align:center; padding:15px 0;">
+                        BẢNG BÁO GIÁ THIẾT BỊ</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <td colspan="8"> </td>
+                </tr>
+            </table>
+
+            <div style="padding: 10px;"></div>
+
+            <table width="100%" style="min-width: 850px;" class="list_table" border="1">
+                <tr style="color: #ffffff; background-color:#e00;">
+                    <td>STT</td>
+                    <td>Mã sản phẩm</td>
+                    <td colspan="2">Tên sản phẩm</td>
+                    <td>Bảo hành</td>
+                    <td>Số lượng</td>
+                    <td>Đơn giá</td>
+                    <td width="120">Thành tiền</td>
+                </tr>
+                
+                
+                
+                
+                
+                
+                
+                <tr>
+                    <td>1</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/mainboard-asus-rog-strix-b660-a-gaming-wifi-d4/">Mainboard Asus ROG STRIX B660-A GAMING WIFI D4</a></td>
+                    <td>36 Tháng Chính Hãng.</td>
+                    <td>1</td>
+                    <td> 4.590.000đ </td>
+                    <td>
+                         4.590.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>2</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/cpu-intel-core-i5-13600k/">CPU Intel Core i5 13600K Chính Hãng (3,50 Ghz, up to 5.10GHz, 14 Nhân 20 Luồng, 24 MB Cache, Raptor Lake S)</a></td>
+                    <td>36 Tháng Chính Hãng. Hàng Đặt Trước</td>
+                    <td>1</td>
+                    <td> 7.600.000đ </td>
+                    <td>
+                         7.600.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>3</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/ram-pc-corsair-vengeance-lpx-8gb-3200mhz-ddr4-cmk8gx4m1e3200c16/">Ram PC Corsair Vengeance LPX 8GB 3200MHz DDR4 CMK8GX4M1E3200C16</a></td>
+                    <td>36 Tháng</td>
+                    <td>2</td>
+                    <td> 690.000đ </td>
+                    <td>
+                         1.380.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>4</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/card-man-hinh-msi-rtx-060-ventus-3x-12g-oc/">Card màn hình MSI RTX 3060 VENTUS 3X OC 12 GB (12GB GDDR6, 192-bit, HDMI +DP, 1x8-pin)</a></td>
+                    <td>36 Tháng</td>
+                    <td>1</td>
+                    <td> 8.499.000đ </td>
+                    <td>
+                         8.499.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>5</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/nguon-msi-mag-a650bn-650w-80-plus-bronze/">Nguồn MSI MAG A650BN 650W – 80 Plus Bronze</a></td>
+                    <td>36 Tháng</td>
+                    <td>1</td>
+                    <td> 1.390.000đ </td>
+                    <td>
+                         1.390.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>6</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/case-msi-mag-forge-110r/">Case MSI MAG FORGE 110R</a></td>
+                    <td>12 THÁNG</td>
+                    <td>1</td>
+                    <td> 990.000đ </td>
+                    <td>
+                         990.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>7</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/o-cung-ssd-samsung-980-500gb-m-2-nvme-mz/">Ổ cứng SSD Samsung 980 500GB PCIe NVMe 3.0x4 (Đọc 3100MB/s - Ghi 2600MB/s) - (MZ-V8V500BW)</a></td>
+                    <td>60 Tháng</td>
+                    <td>1</td>
+                    <td> 1.290.000đ </td>
+                    <td>
+                         1.290.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>8</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/o-cung-hdd-western-caviar-blue-2tb-3-5-inch-5400rpm-sata3-64gb-s-64mb-cache/">Ổ cứng HDD Western Caviar Blue 2TB 3.5 inch 5400RPM, SATA3 64Gb/s, 64MB Cache</a></td>
+                    <td>24 Tháng</td>
+                    <td>1</td>
+                    <td> 1.499.000đ </td>
+                    <td>
+                         1.499.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>9</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/id-cooling-df-12025-argb-trio/">FAN CASE ID-COOLING DF-12025-ARGB TRIO Snow 3pcs Pack</a></td>
+                    <td>24 Tháng</td>
+                    <td>1</td>
+                    <td> 699.000đ </td>
+                    <td>
+                         699.000  đ
+                    </td>
+                </tr>
+                
+                
+                
+                
+                <tr>
+                    <td>10</td>
+                    <td></td>
+                    <td colspan="2"><a href="https://kccshop.vn/tan-nhiet-khi-id-cooling-cpu-se-207-black/">Tản nhiệt khí ID-Cooling CPU SE-207 Black</a></td>
+                    <td>24 Tháng</td>
+                    <td>1</td>
+                    <td> 890.000đ </td>
+                    <td>
+                         890.000  đ
+                    </td>
+                </tr>
+                
+
+                <tr>
+                    <td colspan="5"></td>
+                    <td colspan="2" style="background:#b8cce4;">Tổng chi phí</td>
+                    <td style="background:#b8cce4;"> 28.827.000 đ</td>
+                </tr>
+            </table>
+
+            <table>
+                <tr>
+                    <td colspan="8"> </td>
+                </tr>
+            </table>
+        </div>
+        <p><b>Quý khách lưu ý:</b> Giá bán, khuyến mại của sản phẩm và tình trạng còn hàng có thể bị thay đổi bất cứ lúc nào mà không kịp báo trước. Mọi thông tin chi tiết xin vui lòng liên hệ Hotline : 0912074444 - Email: khanhchungcomputer@gmail.com </p>
+        <table style="text-align:center; width:100%;">
+            <tr>
+                <td colspan="8" style="font-size:21px;color: #e51f28;">CHÂN THÀNH CẢM ƠN !</td>
+            </tr>
+            <!-- <tr>
+                <td colspan="8">Để biết thêm chi tiết, vui lòng liên hệ</td>
+            </tr>
+            <tr>
+                <td colspan="8"><b>Hotline:</b> 0912074444 - 0888129444</td>
+            </tr>
+            <tr>
+                <td colspan="8"><b>Email:</b> khanhchungcomputer@gmail.com</td>
+            </tr>
+            <tr>
+                <td colspan="8"><b>Website:</b> kccshop.vn</td>
+            </tr>
+            <tr>
+                <td colspan="8"><b>FB:</b> Khánh Chung Computer - Máy Tính Đồ Họa Cao Cấp</td>
+            </tr> -->
+        </table>
+    </div>
+</body>
+</html>
+
